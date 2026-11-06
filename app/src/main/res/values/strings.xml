@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="tile_label">Screen record</string>
+    <string name="tile_stop">Stop recording</string>
+    <string name="recording">Recording…</string>
+    <string name="add_tile">Add tile to quick settings</string>
+    <string name="start">Start / stop recording</string>
+    <string name="audio_title">Audio to record</string>
+    <string name="help">1. Pick the audio you want below.\n\n2. Add the “Screen record” tile to your quick settings panel.\n\n3. Pull down the panel and tap the tile to start. Stop from the tile or the notification.\n\nVideos are saved in Movies/ScreenRecorder. Some apps block internal audio capture, so that part will be silent.</string>
+    <string-array name="audio_modes">
+        <item>No audio</item>
+        <item>Microphone</item>
+        <item>Internal audio</item>
+        <item>Microphone + internal audio</item>
+    </string-array>
+</resources>
